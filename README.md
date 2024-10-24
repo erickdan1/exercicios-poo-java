@@ -2,8 +2,8 @@ Este repositório contém uma coleção de exercícios de Programação Orientad
 
 ## Estrutura do Repositório
 
-- **src/**: Contém os arquivos de código-fonte Java organizados em pacotes de acordo com os tópicos de POO.
-- **exercicios/**: Cada exercício possui uma pasta dedicada com sua própria descrição e implementação.
+- **src/**: Contém os arquivos de código-fonte Java organizados em pacotes.
+- **exercicios/**
   - **exercicio1/**
   - **exercicio2/**
   - **exercicio3/**
